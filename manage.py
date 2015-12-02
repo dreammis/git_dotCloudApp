@@ -2,7 +2,7 @@
 import os
 from app import create_app, db
 from app.models import User, Role,Permission,Post,Follow,Comment
-from flask.ext.script import Manager, Shell
+from flask.ext.script import Manager, Shell,Server
 from flask.ext.migrate import Migrate, MigrateCommand
 import sys
 reload(sys)
