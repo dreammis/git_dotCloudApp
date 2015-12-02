@@ -26,6 +26,8 @@ def test():
     tests = unittest.TestLoader().discover('tests')
     unittest.TextTestRunner(verbosity=2).run(tests)
 
+server = Server(host="0.0.0.0", port=int(os.environ['PORT']))
+manager.add_command("runserver", server)
 
 if __name__ == '__main__':
     manager.run()
