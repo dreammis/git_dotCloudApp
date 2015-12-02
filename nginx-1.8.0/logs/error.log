@@ -1,0 +1,208 @@
+2015/10/15 14:06:39 [emerg] 7356#11556: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/10/15 16:31:35 [emerg] 11696#12776: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2015/10/15 16:34:35 [notice] 12900#12012: signal process started
+2015/10/15 16:34:35 [error] 12900#12012: CreateFile() "C:\Users\admin\Pictures\nginx-1.8.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/10/15 16:34:53 [notice] 10884#7576: signal process started
+2015/10/15 16:34:59 [error] 12308#5396: *1 CreateFile() "C:\Users\admin\Pictures\nginx-1.8.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8008", referrer: "http://localhost:8008/"
+2015/11/30 10:55:59 [emerg] 11372#17784: "upstream" directive is not allowed here in F:\python_practise\nginx-1.8.0/conf/nginx.conf:48
+2015/11/30 10:56:57 [emerg] 13724#15020: "upstream" directive is not allowed here in F:\python_practise\nginx-1.8.0/conf/nginx.conf:48
+2015/11/30 10:57:03 [emerg] 5024#4488: "upstream" directive is not allowed here in F:\python_practise\nginx-1.8.0/conf/nginx.conf:48
+2015/11/30 10:57:15 [emerg] 16160#4408: "upstream" directive is not allowed here in F:\python_practise\nginx-1.8.0/conf/nginx.conf:48
+2015/11/30 11:03:31 [emerg] 18168#15464: "upstream" directive is not allowed here in F:\python_practise\nginx-1.8.0/conf/nginx.conf:48
+2015/11/30 11:06:18 [emerg] 7228#9644: invalid parameter "wight=1" in F:\python_practise\nginx-1.8.0/conf/nginx.conf:36
+2015/11/30 11:06:54 [emerg] 14016#7852: directive "root" is not terminated by ";" in F:\python_practise\nginx-1.8.0/conf/nginx.conf:56
+2015/11/30 11:08:16 [notice] 10312#16508: signal process started
+2015/11/30 11:08:16 [error] 10312#16508: OpenEvent("Global\ngx_reload_17236") failed (2: The system cannot find the file specified)
+2015/11/30 11:09:12 [notice] 17280#10008: signal process started
+2015/11/30 11:09:21 [error] 17744#18056: *1 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:09:24 [error] 17744#18056: *1 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:09:26 [error] 17744#18056: *1 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:09:32 [error] 17744#18056: *1 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:10:20 [notice] 13416#8528: signal process started
+2015/11/30 11:10:25 [error] 17744#18056: *25 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:10:36 [error] 17744#18056: *36 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:11:47 [notice] 7700#14680: signal process started
+2015/11/30 11:11:52 [error] 17744#18056: *32 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:11:55 [error] 17744#18056: *32 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:14:19 [notice] 15980#11644: signal process started
+2015/11/30 11:14:23 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:14:26 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:15:17 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:15:20 [notice] 18424#9132: signal process started
+2015/11/30 11:15:22 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:15:24 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:15:31 [notice] 13284#17228: signal process started
+2015/11/30 11:15:37 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:15:39 [notice] 16212#13872: signal process started
+2015/11/30 11:15:43 [notice] 14132#8052: signal process started
+2015/11/30 11:15:47 [notice] 16380#9408: signal process started
+2015/11/30 11:15:49 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:16:48 [notice] 5132#12460: signal process started
+2015/11/30 11:16:52 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:17:06 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:17:10 [notice] 16600#4976: signal process started
+2015/11/30 11:17:12 [error] 17744#18056: *44 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:20:49 [error] 17744#18056: *69 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:20:55 [notice] 15840#10968: signal process started
+2015/11/30 11:20:57 [error] 17744#18056: *69 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:22:29 [notice] 16640#14952: signal process started
+2015/11/30 11:22:34 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:22:38 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:22:39 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/auth/login"
+2015/11/30 11:22:48 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/auth/login"
+2015/11/30 11:22:52 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/auth/login"
+2015/11/30 11:22:55 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/auth/login"
+2015/11/30 11:23:05 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/auth/login"
+2015/11/30 11:23:08 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:23:58 [notice] 9332#14652: signal process started
+2015/11/30 11:24:01 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:24:28 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:24:34 [notice] 6688#15828: signal process started
+2015/11/30 11:24:36 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:26 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:28 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:30 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:32 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:33 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:35 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:36 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:37 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:38 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:39 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:40 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:42 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:25:43 [error] 17744#18056: *77 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:31:34 [notice] 16140#16680: signal process started
+2015/11/30 11:31:39 [error] 17744#18056: *118 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:31:42 [error] 17744#18056: *118 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:33:59 [error] 17744#18056: *127 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:34:28 [error] 17744#18056: *132 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:35:28 [notice] 14284#8468: signal process started
+2015/11/30 11:35:31 [error] 17744#18056: *132 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:41:33 [notice] 16256#17500: signal process started
+2015/11/30 11:41:35 [error] 17744#18056: *137 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:41:42 [error] 17744#18056: *137 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:42:11 [error] 17744#18056: *137 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/static"
+2015/11/30 11:42:28 [error] 17744#18056: *137 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 11:42:52 [error] 17744#18056: *137 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 11:43:03 [notice] 12880#7180: signal process started
+2015/11/30 11:43:05 [error] 17744#18056: *137 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 11:44:14 [notice] 16176#10236: signal process started
+2015/11/30 11:44:19 [notice] 17332#17004: signal process started
+2015/11/30 11:44:25 [error] 17744#18056: *152 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 11:44:35 [error] 17744#18056: *152 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:44:38 [error] 17744#18056: *152 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:45:22 [notice] 5196#13244: signal process started
+2015/11/30 11:45:26 [error] 17744#18056: *152 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:48:28 [notice] 16140#4780: signal process started
+2015/11/30 11:48:36 [error] 17744#18056: *157 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:48:41 [error] 17744#18056: *157 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:53:18 [notice] 10676#11816: signal process started
+2015/11/30 11:53:21 [error] 17744#18056: *161 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:54:27 [notice] 16088#11028: signal process started
+2015/11/30 11:54:30 [notice] 15372#16628: signal process started
+2015/11/30 11:54:33 [error] 17744#18056: *164 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:54:44 [error] 17744#18056: *164 CreateFile() "F:/nginx-1.8.0/staic/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 11:55:29 [notice] 5840#13948: signal process started
+2015/11/30 11:56:06 [crit] 7392#18076: *1 GetFileAttributesEx() "F:\python_practise\nginx-1.8.0/
+ginx-1.8/staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 11:56:06 [crit] 7392#18076: *1 CreateFile() "F:\python_practise\nginx-1.8.0/
+ginx-1.8/staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 11:56:14 [crit] 7392#18076: *2 GetFileAttributesEx() "F:\python_practise\nginx-1.8.0/
+ginx-1.8/staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:56:14 [crit] 7392#18076: *2 CreateFile() "F:\python_practise\nginx-1.8.0/
+ginx-1.8/staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:56:43 [notice] 15136#13720: signal process started
+2015/11/30 11:56:43 [error] 15136#13720: OpenEvent("Global\ngx_stop_6848") failed (2: The system cannot find the file specified)
+2015/11/30 11:57:36 [notice] 11760#10660: signal process started
+2015/11/30 11:57:40 [crit] 13000#17996: *1 GetFileAttributesEx() "F:\python_practise\nginx-1.8.0/
+ginx-1.8/staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:57:40 [crit] 13000#17996: *1 CreateFile() "F:\python_practise\nginx-1.8.0/
+ginx-1.8/staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 11:57:59 [crit] 13000#17996: *4 GetFileAttributesEx() "F:\python_practise\nginx-1.8.0/
+ginx-1.8/staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 11:57:59 [crit] 13000#17996: *4 CreateFile() "F:\python_practise\nginx-1.8.0/
+ginx-1.8/staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:54:40 [notice] 14916#10748: signal process started
+2015/11/30 12:54:45 [crit] 14928#13568: *8 GetFileAttributesEx() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:54:45 [crit] 14928#13568: *8 CreateFile() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:54:48 [crit] 14928#13568: *9 GetFileAttributesEx() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:54:48 [crit] 14928#13568: *9 CreateFile() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:54:51 [crit] 14928#13568: *10 GetFileAttributesEx() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css. HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:54:51 [crit] 14928#13568: *10 CreateFile() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css. HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:54:53 [crit] 14928#13568: *11 GetFileAttributesEx() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:54:53 [crit] 14928#13568: *11 CreateFile() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:55:49 [crit] 14928#13568: *12 GetFileAttributesEx() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:55:49 [crit] 14928#13568: *12 CreateFile() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:55:53 [crit] 14928#13568: *13 GetFileAttributesEx() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 12:55:53 [crit] 14928#13568: *13 CreateFile() "F:\python_practise
+ginx-1.8\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 12:56:48 [notice] 9516#5076: signal process started
+2015/11/30 12:56:53 [error] 13852#17020: *15 CreateFile() "F:/python_practise/nginx-1.8/staticresources/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 12:57:03 [error] 13852#17020: *15 CreateFile() "F:/python_practise/nginx-1.8/staticresources/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:58:44 [error] 13852#17020: *18 CreateFile() "F:/python_practise/nginx-1.8/staticresources/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:59:32 [notice] 17792#10808: signal process started
+2015/11/30 12:59:36 [error] 14204#15136: *20 CreateFile() "F:/python_practise/nginx-1.8.0/staticresources/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080"
+2015/11/30 12:59:40 [error] 14204#15136: *20 CreateFile() "F:/python_practise/nginx-1.8.0/staticresources/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 12:59:53 [notice] 8132#11880: signal process started
+2015/11/30 13:00:17 [error] 16324#16528: *1 CreateFile() "F:/python_practise/nginx-1.8.0/staticresources/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:00:44 [notice] 6320#16628: signal process started
+2015/11/30 13:00:51 [crit] 18360#13632: *1 GetFileAttributesEx() "F:\python_practise
+ginx-1.8.0\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:00:51 [crit] 18360#13632: *1 CreateFile() "F:\python_practise
+ginx-1.8.0\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:01:37 [notice] 5840#13812: signal process started
+2015/11/30 13:01:40 [crit] 16408#5132: *1 GetFileAttributesEx() "F:\python_practise
+ginx-1.8.0\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:01:40 [crit] 16408#5132: *1 CreateFile() "F:\python_practise
+ginx-1.8.0\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:06:33 [crit] 16408#5132: *5 GetFileAttributesEx() "F:\python_practise
+ginx-1.8.0\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/config"
+2015/11/30 13:06:33 [crit] 16408#5132: *5 CreateFile() "F:\python_practise
+ginx-1.8.0\staticresources/static/styles.css" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/config"
+2015/11/30 13:07:57 [notice] 16096#12440: signal process started
+2015/11/30 13:07:59 [notice] 972#10884: signal process started
+2015/11/30 13:07:59 [error] 972#10884: CreateFile() "F:\python_practise\nginx-1.8.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2015/11/30 13:08:10 [error] 3748#17064: *3 CreateFile() "F:\python_practise\Flask_p\app\static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/config"
+2015/11/30 13:08:16 [error] 3748#17064: *1 CreateFile() "F:\python_practise\Flask_p\app\static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:08:45 [notice] 14876#12248: signal process started
+2015/11/30 13:08:48 [error] 15644#9912: *6 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:09:04 [error] 15644#9912: *6 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:09:33 [error] 15644#9912: *6 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:12:05 [notice] 10212#6748: signal process started
+2015/11/30 13:12:09 [error] 10672#18064: *13 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:12:37 [notice] 4684#9172: signal process started
+2015/11/30 13:12:41 [error] 13024#16516: *16 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:13:38 [notice] 16504#12380: signal process started
+2015/11/30 13:13:42 [error] 16892#15508: *19 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:13:53 [notice] 9652#8176: signal process started
+2015/11/30 13:14:00 [error] 15836#13044: *1 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:14:58 [error] 15836#13044: *1 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:16:08 [notice] 18424#17588: signal process started
+2015/11/30 13:16:12 [error] 15836#13044: *5 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:17:37 [notice] 15800#1488: signal process started
+2015/11/30 13:17:41 [error] 15836#13044: *8 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:17:57 [notice] 17436#9148: signal process started
+2015/11/30 13:17:59 [error] 15836#13044: *8 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:18:14 [notice] 17216#236: signal process started
+2015/11/30 13:18:16 [error] 15836#13044: *8 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:18:39 [notice] 17756#17976: signal process started
+2015/11/30 13:18:43 [error] 15836#13044: *8 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:19:08 [error] 15836#13044: *8 CreateFile() "F:/python_practise/Flask_p/app/static/static/styles.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /static/styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2015/11/30 13:19:54 [notice] 13792#5132: signal process started
+2015/11/30 13:19:54 [error] 13792#5132: OpenEvent("Global\ngx_reload_12444") failed (2: The system cannot find the file specified)
+2015/11/30 13:31:24 [notice] 6072#11196: signal process started
+2015/11/30 13:32:32 [notice] 16528#17072: signal process started
+2015/12/02 10:59:47 [error] 4440#10120: *6 CreateFile() "F:/python_practise/nginx-1.8.0/staticresources/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "sakuli.xicp.net:28454", referrer: "http://sakuli.xicp.net:28454/"
+2015/12/02 11:00:31 [error] 4440#10120: *7 CreateFile() "F:/python_practise/nginx-1.8.0/staticresources/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "sakuli.xicp.net:28454", referrer: "http://sakuli.xicp.net:28454/"
